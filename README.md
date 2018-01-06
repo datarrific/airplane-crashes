@@ -6,6 +6,12 @@
 - Name the CSV file "airplane-crashes.csv"
 - Play around with the notebooks
 
+## Notebooks
+
+- [Python 1](/python-1.ipynb) - matplotlib, features a combined bar chart for number of passengers
+- [Python 2](/crashes-analyses.ipynb) - pandas, bokeh, interactive chart
+- [Ruby](/ruby.ipynb) - matplotlib, with Ruby via PyCall
+
 ## Steps to install Jupyter (and a Ruby Kernel) on ubuntu
 
 ### Python / Jupyter
